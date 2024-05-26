@@ -1,0 +1,1 @@
+cmd /k "C:\Users\Scope5\anaconda3\Scripts\activate storm && python "C:\Software\Scope5\storm_control\hal4000\hal4000.py" "C:\Software\Scope5\MEGAFISH-configs\megafish_hcam_celesta_tiger_config_kinetix_noneIR.xml""
